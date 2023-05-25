@@ -14,8 +14,8 @@
   <summary>⚡️ In case you are interested in what I put on here...</summary>
   <br/>
     
-  ![tylonghuang GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylonghuang&count_private=true&show_icons=true&theme=github_dark)
+  ![tylonghuang GitHub Stats](https://github-readme-stats-tylonghuang.vercel.app/api?username=tylonghuang&count_private=true&show_icons=true&theme=github_dark)
     
-  ![tylonghuang Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylonghuang&layout=compact&hide=css,html&theme=github_dark)
+  ![tylonghuang Top Langs](https://github-readme-stats-tylonghuang.vercel.app/api/top-langs/?username=tylonghuang&layout=compact&hide=css,html&theme=github_dark)
   </details>
 </div>
