@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there ~ 👋 I am Long, or 龙 ...</h1>
   <p>
-    ... and I am a PhD Student <a href="https://www.kit.edu/">@Karlsruhe Institute of Technology (KIT)</a>.
+    ... and I am a Research Associate <a href="https://www.kit.edu/">@KIT</a> and a Ph.D. Student <a href="https://www.tum.de/">@TUM</a>.
     <br/><br/>
     I am not often here, but when I am, I produce mediocre code.
     <br/>
